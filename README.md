@@ -9,9 +9,13 @@ The project scope encompassed the integration of multifaceted data streams inclu
 **Key Milestones and Actions:**
 
 **Data Profiling and Source Identification:** Conducted thorough profiling of varied data sources related to the Olympics to determine structure, quality, and relevance.
+
 **ETL Architecture Design:** Developed a scalable architecture using cutting-edge ETL technologies to manage, process, and integrate diverse datasets efficiently.
+
 **Data Transformation and Enrichment:** Applied comprehensive transformation processes to standardize, clean, and enrich the data for unified storage.
+
 **Automated Loading and Validation:** Implemented automated loading mechanisms and validation checks to ensure data integrity and consistency.
+
 **Real-time Updates and Monitoring:** Enabled real-time data updates during the Olympic Games while maintaining vigilant monitoring for data accuracy and system performance.
 
 **End Result and Achievements:**
