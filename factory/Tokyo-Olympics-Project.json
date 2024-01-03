@@ -1,0 +1,9 @@
+{
+	"name": "Tokyo-Olympics-Project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d76f12bf-c0ff-4009-b45f-72de0d9cc37d",
+		"tenantId": "c72386bc-8e8e-4e12-a123-9521e341958c"
+	}
+}
